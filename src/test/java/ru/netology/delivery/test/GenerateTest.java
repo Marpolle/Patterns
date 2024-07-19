@@ -10,8 +10,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-class DeliveryTest {
-
+public class GenerateTest {
     @BeforeEach
     void setup() {
         open("http://localhost:9999");

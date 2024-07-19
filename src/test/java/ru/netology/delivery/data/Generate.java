@@ -47,10 +47,5 @@ public class Generate {
         String name;
         String phone;
 
-
-
-
-
-
     }
 }
